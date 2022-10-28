@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @csparedes
-- 👀 I’m interested in developing flutter apps
-- 🌱 I’m currently learning System Engineer
+- 👀 I’m interested in developing flutter apps, reactjs, nodejs.
 - 💞️ I’m looking to collaborate on BottleBack Ecuador at CNChallenge 
 
 

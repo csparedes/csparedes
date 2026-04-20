@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Sparedes 👋
+# Hi, I'm Cristian Paredes Sánchez 👋
 
 ## Flutter & Full Stack Developer from Ibarra, Ecuador 🛠️
 
